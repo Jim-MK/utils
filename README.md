@@ -6,3 +6,4 @@
 - 参考 zepto
 - 参考 underscore
 - 参考 lodash
+- 引入单元测试
